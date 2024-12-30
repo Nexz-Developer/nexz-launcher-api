@@ -3,10 +3,8 @@
     "gameFilesVersionCode": 1,
     "URL_GAME_FILES" : "http://192.168.1.101/game.rar",
     "URL_GAME_FILES_UPD" : "http://192.168.1.101/files_upd.rar",
-    "URL_VK": "https://vk.com/",
+    "URL_CLIENT": "http://192.168.1.101/launcher.apk",
     "URL_DISCORD": "https://discord.gg/",
-    "URL_YOUTUBE": "",
-    "URL_FORUM": "",
-    "URL_DONATE": "",
-    "URL_CLIENT": "http://192.168.1.101/launcher.apk"
+    "URL_YOUTUBE": ""
+
 }
