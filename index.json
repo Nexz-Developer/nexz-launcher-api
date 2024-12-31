@@ -1,5 +1,5 @@
 {
-    "clientVersionCode": 2,
+    "clientVersionCode": 1,
     "gameFilesVersionCode": 1,
     "URL_GAME_FILES" : "http://192.168.1.101/game.rar",
     "URL_GAME_FILES_UPD" : "http://192.168.1.101/files_upd.rar",
