@@ -3,7 +3,7 @@
     "clientVersion": "1.0.1",
     "gameFilesVersionCode": 1,
 
-    "url_client": "http://192.168.1.101/launcher.apk",
+    "url_client": "http://192.168.1.101/client.apk",
     "url_game_file" : "http://192.168.1.101/game.rar",
     "url_game_file_upd" : "http://192.168.1.101/files_upd.rar",
 
