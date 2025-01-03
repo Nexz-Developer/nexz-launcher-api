@@ -4,5 +4,5 @@
     "gameFilesVersionCode": 1,
     "URL_GAME_FILES": "http://192.168.1.101/mobile/game.zip",
     "URL_GAME_FILES_UPD": "http://192.168.1.101/mobile/files_upd.zip",
-    "URL_CLIENT": "http://192.168.1.101/mobile/Launcher.apk"
+    "URL_CLIENT": "http://192.168.1.101/mobile/nexz-client.apk"
 }
