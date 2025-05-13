@@ -1,9 +1,9 @@
 {
     "clientVersionCode": 2,
     "clientVersion": "1.0.1",
-    "url": "http://192.168.1.103/mobile/legend.apk",
+    "url": "http://192.168.1.104/mobile/legend.apk",
     
     "gameFilesVersionCode": 1,
-    "url_game_files": "http://192.168.1.103/mobile/game.zip",
-    "url_game_files_upd": "http://192.168.1.103/mobile/files_upd.zip"
+    "url_game_files": "http://192.168.1.104/mobile/game.zip",
+    "url_game_files_upd": "http://192.168.1.104/mobile/files_upd.zip"
 }
