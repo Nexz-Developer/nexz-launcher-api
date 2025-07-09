@@ -1,7 +1,7 @@
 {
-    "clientVersionCode": 2,
+    "clientVersionCode": 1,
     "clientVersion": "1.0.1",
-    "url": "http://192.168.1.100/mobile/nxzl.apk",
+    "url": "http://192.168.1.100/mobile/synx-client.apk",
     
     "gameFilesVersionCode": 1,
     "url_game_files": "http://192.168.1.100/mobile/game.zip",
