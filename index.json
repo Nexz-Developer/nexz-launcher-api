@@ -6,4 +6,9 @@
     "gameFilesVersionCode": 1,
     "url_game_files": "http://192.168.1.100/mobile/game.zip",
     "url_game_files_upd": "http://192.168.1.100/mobile/files_upd.zip"
+
+    "images": {
+        "img1": "link img 1",
+        "img2": "link img 2"
+    }
 }
