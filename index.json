@@ -1,21 +1,26 @@
 {
-    "clientVersionCode": 1,
-    "clientVersion": "1.0.1",
-    "url": "http://192.168.1.100/mobile/launcher18.apk",
-    
-    "gameFilesVersionCode": 1,
-    "url_game_files": "http://192.168.1.100/mobile/game.zip",
-    "url_game_files_upd": "http://192.168.1.100/mobile/files_upd.zip",
-
     "client": {
         "VersionCode": 1,
         "Version": "1.0.1",
         "url": "http://192.168.1.100/mobile/launcher18.apk"
-      },
+    },
 
     "gameFiles": {
         "VersionCode": 1,
-        "url": "http://192.168.1.100/mobile/launcher18.apk",
+        "url": "http://192.168.1.100/mobile/game.zip",
         "url_upd": "http://192.168.1.100/mobile/files_upd.zip"
+    },
+
+    "contacts": {
+        "facebook": "",
+        "discord": "",
+        "website": ""
+    },
+
+    "images": {
+        "img_main": "http://api.samp-legend.net/LEGENDGAME/img/play_game2.png",
+        "img_load": "http://api.samp-legend.net/LEGENDGAME/img/play_game2.png",
+        "img_splash": "http://api.samp-legend.net/LEGENDGAME/img/play_game2.png",
+        "img_screen": "http://api.samp-legend.net/LEGENDGAME/img/play_game2.png"
     }
 }
