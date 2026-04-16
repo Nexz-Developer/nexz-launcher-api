@@ -18,9 +18,9 @@
     },
 
     "images": {
-        "img_main": "https://i.ibb.co/fVZhrRYn/mirage-bg-16-9-2.png",
+        "img_main": "http://api.samp-legend.net/LEGENDGAME/img/play_game2.png",
         "img_load": "http://api.samp-legend.net/LEGENDGAME/img/play_game2.png",
-        "img_splash": "https://i.ibb.co/fVZhrRYn/mirage-bg-16-9-2.png",
-        "img_screen": "https://i.ibb.co/fVZhrRYn/mirage-bg-16-9-2.png"
+        "img_splash": "http://api.samp-legend.net/LEGENDGAME/img/play_game2.png",
+        "img_screen": "http://api.samp-legend.net/LEGENDGAME/img/play_game2.png"
     }
 }
