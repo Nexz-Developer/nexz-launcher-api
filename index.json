@@ -2,12 +2,12 @@
     "client": {
         "VersionCode": 1,
         "Version": "1.0.1",
-        "url": "http://10.40.59.76/mobile/launcher18.apk"
+        "url": "http://172.27.153.76/mobile/launcher18.apk"
     },
 
     "gameFiles": {
         "VersionCode": 1,
-        "url": "http://192.168.1.100/mobile/game.zip",
+        "url": "http://172.27.153.76/mobile/game.zip",
         "url_upd": "http://192.168.1.100/mobile/files_upd.zipx"
     },
 
